@@ -9,7 +9,7 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.patxibocos.replay.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.patxibocos.replay.startup.MyProjectActivity" />
+        <toolWindow factoryClass="io.github.patxibocos.replay.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <postStartupActivity implementation="io.github.patxibocos.replay.startup.MyProjectActivity" />
     </extensions>
 </idea-plugin>

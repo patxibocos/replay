@@ -1,9 +1,9 @@
-package com.github.patxibocos.replay.services
+package io.github.patxibocos.replay.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.patxibocos.replay.MyBundle
+import io.github.patxibocos.replay.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

@@ -1,4 +1,4 @@
-package com.github.patxibocos.replay
+package io.github.patxibocos.replay
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

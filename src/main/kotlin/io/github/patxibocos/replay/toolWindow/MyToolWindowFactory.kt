@@ -1,4 +1,4 @@
-package com.github.patxibocos.replay.toolWindow
+package io.github.patxibocos.replay.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.patxibocos.replay.MyBundle
-import com.github.patxibocos.replay.services.MyProjectService
+import io.github.patxibocos.replay.MyBundle
+import io.github.patxibocos.replay.services.MyProjectService
 import javax.swing.JButton
 
 

@@ -1,4 +1,4 @@
-package com.github.patxibocos.replay.startup
+package io.github.patxibocos.replay.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project

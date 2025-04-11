@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.patxibocos.replay</id>
+    <id>io.github.patxibocos.replay</id>
     <name>replay</name>
     <vendor>patxibocos</vendor>
 
